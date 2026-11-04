@@ -1,0 +1,10 @@
+{
+  "CVE-2019-11358": "VULNERABLE",
+  "CVE-2020-11022": "VULNERABLE",
+  "CVE-2020-11023": "safe",
+  "jQuery-11974": "VULNERABLE",
+  "CVE-2015-9251": "VULNERABLE",
+  "CVE-2024-6485": "VULNERABLE",
+  "jquery": "1.11.1",
+  "bootstrap": "3.2.0"
+}

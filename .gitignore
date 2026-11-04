@@ -1,0 +1,30 @@
+# Secrets - NEVER commit real credentials
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Tool caches
+.retire-cache/
+node_modules/
+
+# Generated scan output
+*.log
+retire-*.txt
+retire-test-*.json
+server-check-*.log
+app-*.log
+req.txt
+
+# Downloaded third-party JS dumps (re-fetchable)
+served-js-*/
